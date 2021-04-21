@@ -1,0 +1,38 @@
+[
+    {
+        "id": "101",
+        "name": "Woody Intense",
+        "cost": "200 SAR",
+        "discount": "72%",
+        "type": "SPRAY",
+        "favourite": true,
+        "image": "perfume1"
+    },
+    {
+        "id": "102",
+        "name": "Woody Intense",
+        "cost": "350 SAR",
+        "discount": "40%",
+        "type": "SPRAY",
+        "favourite": false,
+        "image": "perfume2"
+    },
+    {
+        "id": "103",
+        "name": "Metallic Intense",
+        "cost": "200 SAR",
+        "discount": "72%",
+        "type": "SPRAY",
+        "favourite": false,
+        "image": "perfume3"
+    },
+    {
+        "id": "104",
+        "name": "Metallic Intense",
+        "cost": "350 SAR",
+        "discount": "40%",
+        "type": "SPRAY",
+        "favourite": true,
+        "image": "perfume4"
+    }
+]
